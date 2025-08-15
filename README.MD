@@ -66,7 +66,7 @@ La interfaz gráfica ha sido diseñada para ser minimalista y fácil de interpre
   py -m src.simumem.run_gui
   ```
 
-Al iniciar, se abrirá la ventana principal de la interfaz gráfica. (El comando puede cambiar, en lugar de py puede ser python3 depediendo de la version de python que tengas instalada)
+Al iniciar, se abrirá la ventana principal de la interfaz gráfica. (El comando puede cambiar, en lugar de py puede ser python3 depediendo de la version de python que tengas instalada, por ejemplo, en python 3.8.8 el comando es python -m src.simumem.run_gui)
 
 ---
 
